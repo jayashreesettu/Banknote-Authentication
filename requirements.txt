@@ -1,0 +1,10 @@
+numpy
+scipy
+scikit-learn
+pandas
+matplotlib
+fastapi
+uvicorn
+gunicorn==19.9.0
+httptools
+ipykernel
